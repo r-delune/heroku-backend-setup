@@ -2,7 +2,7 @@
 <!-- begin adding your HTML here -->
 <h1>My Example Page</h1>
 <p>This is my example project using PHP, SQL, Javascript & Heroku</p>
-<p>Here are the contents of your  <b>database</b></p>
+<p>Here are the contents of your  <b>database</b></p>test
 
 <!-- contents of your database -->
 <?php
